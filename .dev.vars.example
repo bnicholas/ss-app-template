@@ -1,0 +1,5 @@
+NEXTJS_ENV=development
+CLERK_PUBLISHABLE_KEY=xxxxx
+CLERK_PRIVATE_KEY=xxxxx
+SS_API_KEY=xxxx
+SS_API_URL=http://localhost:8787
